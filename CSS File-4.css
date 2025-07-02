@@ -1,0 +1,53 @@
+body{
+  background-color:honeydew;
+}
+
+h1{
+  background-color: blue;
+  padding: 15px;
+  color: yellow;
+  border-style: solid;
+  border-color: black;
+}
+
+h2{
+  font-size: 35px;
+  color:brown;
+}
+
+
+iframe{
+  height: 1200px;
+  width: 100%;
+}
+
+.Map{
+  height: 500px;
+  width: 500px;
+  position: relative;
+  left: 500px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 51px;
+}
+
+.YTVideo{
+  height: 500px;
+  width: 1000px;
+  position: relative;
+  left: 250px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 51px;
+}
+
+.ending{
+  color: aliceblue;
+  background-color: darkviolet;
+  margin-top: 50px;
+  font-size: 38px;
+  outline: black 5px solid;
+  border-radius: 5px;
+}

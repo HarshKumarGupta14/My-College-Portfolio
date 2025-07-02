@@ -1,0 +1,138 @@
+body{
+  background-color:honeydew;
+}
+
+h1{
+  background-color: blue;
+  padding: 15px;
+  color: yellow;
+  border-style: solid;
+  border-color: black;
+}
+
+p{
+  font-size: 25px;
+}
+
+pre{
+  font-size: 20px;
+  margin-left: 65px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.poem{
+  background-color: antiquewhite;
+  width: 100%;
+  height: 520px;
+  border-color: black;
+  border-style: solid;
+}
+
+.FPI-1{
+  height: 350px;
+  width: 750px;
+  position: relative;
+  left: 670px;
+  bottom: 450px;
+  border-radius: 0px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 51px;
+  
+}
+
+.FPI-2{
+  height: 150px;
+  width: 330px;
+  margin-left: 8px;
+  position: relative;
+  bottom: 70px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 25px;
+}
+
+.FPI-3{
+  height: 350px;
+  width: 200px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 51px;
+}
+
+.FPI-4{
+  height: 350px;
+  width: 250px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 51px;
+}
+
+.FPI-5{
+  height: 185px;
+  width: 330px;
+  margin-left: 10px;
+  position: relative;
+  bottom: 70px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 25px;
+}
+
+.FPI-6{
+  height: 350px;
+  width: 200px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 25px;
+}
+
+.FPI-7{
+  height: 200px;
+  width: 380px;
+  position: relative;
+  bottom: 67px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 51px;
+}
+
+.FPVid-1{
+  height: 410px;
+  margin-left: 3px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 25px;
+}
+
+.FPVid-2{
+  height: 210px;
+  position: relative;
+  bottom: 60px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 2px 2px 25px gray;
+}
+
+.ending{
+  color: aliceblue;
+  background-color: darkviolet;
+  margin-top: 50px;
+  font-size: 40px;
+  outline: black 5px solid;
+  border-radius: 5px;
+}
+
+
+
+
+
+
